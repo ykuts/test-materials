@@ -343,6 +343,9 @@ if __name__ == '__main__':
 - [Stanford AI Index](https://aiindex.stanford.edu/)
 - [Gartner Hype Cycle for AI](https://www.gartner.com/en/research/hype-cycle)
 
+### Video tutorialВидео объяснение
+[Functions in Python](https://www.youtube.com/watch?v=89cGQjB5R4M)
+
 ---
 
 ## Summary
