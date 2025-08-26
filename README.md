@@ -344,7 +344,7 @@ if __name__ == '__main__':
 - [Gartner Hype Cycle for AI](https://www.gartner.com/en/research/hype-cycle)
 
 ### Video tutorialВидео объяснение
-[Functions in Python](https://www.youtube.com/watch?v=89cGQjB5R4M)
+[Functions in Python](https://youtu.be/89cGQjB5R4M?si=tD9AIer6tuo-1n-S)
 
 ---
 
