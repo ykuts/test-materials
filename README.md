@@ -346,6 +346,8 @@ if __name__ == '__main__':
 ### Video tutorialВидео объяснение
 [Functions in Python](https://youtu.be/89cGQjB5R4M?si=tD9AIer6tuo-1n-S)
 
+[Functions in Python](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+
 ---
 
 ## Summary
